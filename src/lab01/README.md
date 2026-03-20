@@ -98,7 +98,7 @@
 
 ### Создание и вывод
 
-![image1.1](/OOP_labs/images/lab01/result.png)
+![image1.1](../../images/lab01/result.png)
 
 ### Сравнение
 
