@@ -98,34 +98,34 @@
 
 ### Создание и вывод
 
-![image1.1](/python_labs/images/lab01/result.png)
+![image1.1](/OOP_labs/images/lab01/result.png)
 
 ### Сравнение
 
-![image1.2](/python_labs/images/lab01/truefalse.png)
+![image1.2](/OOP_labs/images/lab01/truefalse.png)
 
 ### Setter
 
-![image1.3](/python_labs/images/lab01/setter.png)
+![image1.3](/OOP_labs/images/lab01/setter.png)
 
 ### Бизнес-методы
 
-![image1.4](/python_labs/images/lab01/businessmethid.png)
+![image1.4](/OOP_labs/images/lab01/businessmethid.png)
 
 ### Атрибут класса
 
-![image1.5](/python_labs/images/lab01/atribut.png)
+![image1.5](/OOP_labs/images/lab01/atribut.png)
 
 ### Состояние
 
-![image1.61](/python_labs/images/lab01/1_6.png)
+![image1.61](/OOP_labs/images/lab01/1_6.png)
 
-![image1.62](/python_labs/images/lab01/1_6_1.png)
+![image1.62](/OOP_labs/images/lab01/1_6_1.png)
 
 ### Валидация
 
-![image1.7](/python_labs/images/lab01/validate.png)
+![image1.7](/OOP_labs/images/lab01/validate.png)
 
 ### REPR
 
-![image1.8](/python_labs/images/lab01/repr.png)
+![image1.8](/OOP_labs/images/lab01/repr.png)
