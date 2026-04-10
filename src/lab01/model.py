@@ -1,4 +1,4 @@
-from validate import (
+from .validate import (
     validate_title,
     validate_author,
     validate_year,
