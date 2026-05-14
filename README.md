@@ -14,3 +14,6 @@
 
 ### ЛР-5 — Функции как аргументы. Стратегии и делегаты.
 [Перейти к README lab05](src/lab05/README.md)
+
+## # ЛР-6 — Generics и typing
+[Перейти к README lab06](src/lab06/README.md)
