@@ -17,3 +17,6 @@
 
 ## ЛР-6 — Generics и typing
 [Перейти к README lab06](src/lab06/README.md)
+
+## ЛР-7 — Консольное приложение
+[Перейти к README lab07](src/lab07/README.md)
